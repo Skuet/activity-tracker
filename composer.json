@@ -1,0 +1,13 @@
+{
+    "name": "myapp/activity-tracker",
+    "type": "project",
+    "require": {
+        "laravel/framework": "^13.11"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "minimum-stability": "stable"
+}

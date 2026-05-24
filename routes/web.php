@@ -1,5 +1,5 @@
 <?php
-Route::get('/up', fn() => response('OK', 200));
+
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\Auth\AuthenticatedSessionController;
 use App\Http\Controllers\Auth\RegisteredUserController;

@@ -1,0 +1,7 @@
+{
+  "name": "activity-tracker",
+  "private": true,
+  "scripts": {
+    "build": "echo ok"
+  }
+}
